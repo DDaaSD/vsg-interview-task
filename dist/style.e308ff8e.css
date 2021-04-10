@@ -215,7 +215,7 @@ footer h2 {
 }
 
 .underline-text:before {
-  border-top: 1px solid #2f2f2f;
+  border-top: 2px solid #8b8b8b;
   content: "";
   width: 100px;
   height: 8px;
@@ -223,7 +223,7 @@ footer h2 {
   margin: 0 auto;
 }
 .underline-text:after {
-  border-bottom: 1px solid #2f2f2f;
+  border-bottom: 2px solid #1a1919;
   content: "";
   width: 100px;
   height: 8px;
@@ -260,7 +260,7 @@ footer h2 {
 }
 
 .title-big-normal:before {
-  border-top: 1px solid #2f2f2f;
+  border-top: 2px solid #8b8b8b;
   content: "";
   width: 100px;
   height: 12px;
@@ -268,7 +268,7 @@ footer h2 {
   margin: 0 auto;
 }
 .title-big-normal:after {
-  border-bottom: 1px solid #2f2f2f;
+  border-bottom: 2px solid #1a1919;
   content: "";
   width: 100px;
   height: 12px;
